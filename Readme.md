@@ -93,9 +93,6 @@ OPENAI_API_KEY=<your-openai-key>
 ---
 
 
->
-> ```html
-
 https://github.com/user-attachments/assets/01a04d15-c8fb-4013-9176-9de30e8a57b4
 
 
