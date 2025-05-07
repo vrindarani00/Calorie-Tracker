@@ -92,7 +92,7 @@ OPENAI_API_KEY=<your-openai-key>
 
 ---
 
-> **Tip:** To include a short demo video in your `README.md`, place `demo.mp4` in your repo and add:
+
 >
 > ```html
 
