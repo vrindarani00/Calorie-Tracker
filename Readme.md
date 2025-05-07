@@ -14,26 +14,6 @@ A **Streamlit**–based calorie tracker that uses OpenAI’s vision-capable GPT 
 - **Daily Overview**  
   See all meals and daily totals in a simple calendar-style table.
 
----
-
-## 📂 Project Structure
-
-```
-
-Calorie-tracker/
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── .env.example
-└── src/
-└── calorie\_tracker/
-├── **init**.py
-├── main.py       # Streamlit app entry point
-└── utils.py      # Image handling & API helpers
-
-````
-
----
 
 ## 🛠️ Setup
 
