@@ -8,16 +8,16 @@ A Streamlit-based calorie tracker using OpenAI's vision-capable GPT model to est
 - Log calories per meal and display daily totals in a calendar-style table.
 
 ## Project Structure
-alorie-tracker/
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── .env.example
-└── src/
-└── calorie_tracker/
-├── init.py
-├── main.py
-└── utils.py
+Calorie-tracker/
+   ├── .gitignore
+   ├── README.md
+   ├── requirements.txt
+   ├── .env.example
+   └── src/
+   └── calorie_tracker/
+   ├── init.py
+   ├── main.py
+   └── utils.py
 ## Setup
 1. Clone the repo:
    ```bash
