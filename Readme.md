@@ -1,7 +1,12 @@
+Thought for a second
 
+
+Here’s a leaner version of your README with only the essentials:
+
+````markdown
 # Calorie Tracker
 
-A **Streamlit**–based calorie tracker that uses OpenAI’s vision-capable GPT model to estimate calories from meal photos.
+A Streamlit–based app that uses OpenAI’s vision-capable GPT model to estimate calories from meal photos.
 
 ## 🚀 Features
 - **Photo-based Estimation**  
@@ -11,14 +16,13 @@ A **Streamlit**–based calorie tracker that uses OpenAI’s vision-capable GPT 
 - **Daily Overview**  
   See all meals and daily totals in a simple calendar-style table.
 
-
 ## 🛠️ Setup
 
-1. **Clone the repo**  
+1. **Clone the repo**
    ```bash
    git clone https://github.com/<your-username>/calorie-tracker.git
    cd calorie-tracker
-   ```
+````
 
 2. **Create & activate a virtual environment**
 
@@ -42,7 +46,7 @@ A **Streamlit**–based calorie tracker that uses OpenAI’s vision-capable GPT 
    cp .env.example .env
    ```
 
-   Edit `.env` and add your OpenAI API key:
+   Then add your API key to `.env`:
 
    ```
    OPENAI_API_KEY=sk-...
@@ -54,30 +58,22 @@ A **Streamlit**–based calorie tracker that uses OpenAI’s vision-capable GPT 
    streamlit run src/calorie_tracker/main.py
    ```
 
-   Then open your browser at `http://localhost:8501`.
-
----
+   Open your browser at `http://localhost:8501`.
 
 ## 📖 Environment Variables
 
-See `.env.example` for all required settings:
+See `.env.example` for required settings:
 
 ```
-# .env.example
 OPENAI_API_KEY=<your-openai-key>
 ```
 
 ---
 
+Demo:
 
-https://github.com/user-attachments/assets/01a04d15-c8fb-4013-9176-9de30e8a57b4
-
-
-> <video width="640" controls>
->   <source src="demo.mp4" type="video/mp4">
->   Your browser does not support the video tag.
-> </video>
-> ```
+```
 
 
+https://github.com/user-attachments/assets/7a02f6d2-7892-4cc8-b473-1a721abbdf59
 
