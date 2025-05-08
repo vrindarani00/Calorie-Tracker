@@ -1,7 +1,3 @@
-Thought for a second
-
-
-Here’s a leaner version of your README with only the essentials:
 
 ````markdown
 # Calorie Tracker
@@ -71,9 +67,9 @@ OPENAI_API_KEY=<your-openai-key>
 ---
 
 Demo:
-
+https://github.com/user-attachments/assets/7a02f6d2-7892-4cc8-b473-1a721abbdf59
 ```
 
 
-https://github.com/user-attachments/assets/7a02f6d2-7892-4cc8-b473-1a721abbdf59
+
 
