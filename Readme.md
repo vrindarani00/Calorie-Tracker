@@ -1,7 +1,4 @@
-Thought for 9 seconds
 
-
-```markdown
 # Calorie Tracker
 
 A **Streamlit**–based calorie tracker that uses OpenAI’s vision-capable GPT model to estimate calories from meal photos.
@@ -21,7 +18,7 @@ A **Streamlit**–based calorie tracker that uses OpenAI’s vision-capable GPT 
    ```bash
    git clone https://github.com/<your-username>/calorie-tracker.git
    cd calorie-tracker
-````
+   ```
 
 2. **Create & activate a virtual environment**
 
@@ -82,5 +79,5 @@ https://github.com/user-attachments/assets/01a04d15-c8fb-4013-9176-9de30e8a57b4
 > </video>
 > ```
 
-```
-```
+
+
